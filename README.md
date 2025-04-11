@@ -33,7 +33,5 @@ Sistema simples para cadastro, leitura, atualização e exclusão de dados.
 ## 📬 Contato
 
 📧 E-mail: alvess.julia.ju@gmail.com  
-📱 WhatsApp: (11) 98701-2893  
-🌍 Localização: Zona Sul – São Paulo/SP
 
 ---
