@@ -26,7 +26,7 @@ Sistema simples para cadastro, leitura, atualização e exclusão de dados.
 
 ## 📄 Currículo
 
-📥 [Clique aqui para acessar meu currículo em PDF](curriculo_julia.pdf)
+📥 [Clique aqui para acessar meu currículo em PDF]()
 
 ---
 
