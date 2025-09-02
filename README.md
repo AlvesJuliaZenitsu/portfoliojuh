@@ -19,7 +19,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por te
 
 ### 📁 CRUD com PHP e MySQL *(em desenvolvimento)*
 Sistema simples para cadastro, leitura, atualização e exclusão de dados.
-> Tecnologias: PHP, MySQL, HTML, CSS  
+> Tecnologias: PHP, JS, MySQL, HTML, CSS  
 
 
 ---
