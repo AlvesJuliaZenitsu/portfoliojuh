@@ -26,7 +26,7 @@ Sistema simples para cadastro, leitura, atualização e exclusão de dados.
 
 ## 📄 Currículo
 
-📥 [Clique aqui para acessar meu currículo em PDF](Julia Alves - CV (1).pdf)
+📥 [Clique aqui para acessar meu currículo em PDF]()
 
 ---
 
